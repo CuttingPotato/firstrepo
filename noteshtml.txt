@@ -1,0 +1,3 @@
+- TH, TD and TR should have end tags
+- Default tables has no borders
+- table is flush with left margin by default.
